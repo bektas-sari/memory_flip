@@ -1,4 +1,4 @@
-# Memory Flip – Fun & Educational Memory Card Game
+# Memory Flip – Fun & Educational Memory Card Game (Flutter APP)
 
 ## 📌 Description
 
